@@ -1,3 +1,3 @@
-import
+import jav
 public class Main {
 }
